@@ -1,0 +1,14 @@
+.section-search {
+  height: 200px;
+  padding: 5px;
+  margin: 0;
+}
+#search-input {
+  margin-top: 5px;
+}
+#popular {
+  max-height: 330px;
+}
+.contact-card {
+  height: 490px;
+}
